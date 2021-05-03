@@ -1,0 +1,16 @@
+2021-04-23T11:55:02+00:00 CRITICAL Out of memory (allocated 10485760) (tried to allocate 8192 bytes) in E:\Xampp\htdocs\wordpress\wp-admin\includes\ajax-actions.php on line 3285
+
+2021-04-23T12:02:27+00:00 CRITICAL Unmatched '}' in E:\Xampp\htdocs\wordpress\wp-content\themes\blank\sidebar.php on line 11
+
+2021-04-23T12:02:29+00:00 CRITICAL Unmatched '}' in E:\Xampp\htdocs\wordpress\wp-content\themes\blank\sidebar.php on line 11
+
+2021-04-23T12:02:30+00:00 CRITICAL Unmatched '}' in E:\Xampp\htdocs\wordpress\wp-content\themes\blank\sidebar.php on line 11
+
+2021-04-23T15:29:39+00:00 CRITICAL Unterminated comment starting line 2 in E:\Xampp\htdocs\wordpress\wp-content\plugins\woocommerce\templates\content-product.php on line 2
+
+2021-04-23T15:29:57+00:00 CRITICAL Unterminated comment starting line 2 in E:\Xampp\htdocs\wordpress\wp-content\plugins\woocommerce\templates\content-product.php on line 2
+
+2021-04-23T15:30:05+00:00 CRITICAL Unterminated comment starting line 2 in E:\Xampp\htdocs\wordpress\wp-content\plugins\woocommerce\templates\content-product.php on line 2
+
+2021-04-23T15:30:16+00:00 CRITICAL Unterminated comment starting line 2 in E:\Xampp\htdocs\wordpress\wp-content\plugins\woocommerce\templates\content-product.php on line 2
+
